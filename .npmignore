@@ -1,0 +1,3 @@
+# 忽略整个项目结构，只包含mcp-server目录
+*
+!electron/mcp-server/
