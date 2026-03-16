@@ -1,12 +1,1 @@
-{
-  "name": "codefire-mcp-server",
-  "version": "1.0.4",
-  "description": "CodeFire MCP server for AI coding agents",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "better-sqlite3": "^12.6.2"
-  }
-}
+{"name": "@iflow-mcp/websitebutlers-codefire-app", "version": "1.0.4", "description": "CodeFire MCP server for AI coding agents", "main": "server.js", "bin": {"iflow-mcp_websitebutlers-codefire-app": "server.js"}, "scripts": {"start": "node server.js"}, "dependencies": {"@modelcontextprotocol/sdk": "^1.27.1", "better-sqlite3": "^12.6.2"}}
